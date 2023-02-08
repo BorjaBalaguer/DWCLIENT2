@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Blogs>
+  <blog>
+    <name>WebLog Expert - Powerful log analyzer</name>
+    <description>Download and analyze Apache and IIS Web logs on your own PC.</description>
+    <url>http://www.weblogexpert.com/</url>
+  </blog>
+  <blog>
+    <name>Professional drupal themes</name>
+    <description>For professional drupal themes with a unique look and feel, visit TopNotchThemes.com.</description>
+    <url>http://www.topnotchthemes.com/</url>
+  </blog>
+  <blog>
+    <name>Paypal Developer Community</name>
+    <description>The community for developping paypal payment processing scripts.</description>
+    <url>http://www.pdncommunity.com</url>
+  </blog>
+</Blogs>

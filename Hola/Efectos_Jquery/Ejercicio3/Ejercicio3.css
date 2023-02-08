@@ -1,0 +1,9 @@
+#cubo{width: 50px; height: 50px; object-fit: scale-down; position: absolute;}
+#cubo2{width: 50px; height: 50px; object-fit: scale-down; position: absolute;}
+
+#cuadrado{
+    width: 500px; height: 500px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: blue;
+}
